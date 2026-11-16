@@ -9,4 +9,3 @@ public class MedTechApplication {
         SpringApplication.run(MedTechApplication.class, args);
     }
 }
-

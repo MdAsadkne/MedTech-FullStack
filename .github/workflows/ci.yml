@@ -37,4 +37,3 @@ jobs:
           java-version: '17'
           cache: maven
       - run: mvn -B -f backend/pom.xml package -DskipTests
-

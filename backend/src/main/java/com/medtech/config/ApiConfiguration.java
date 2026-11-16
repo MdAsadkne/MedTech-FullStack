@@ -14,4 +14,3 @@ public class ApiConfiguration implements WebMvcConfigurer {
                 .allowedHeaders("Content-Type");
     }
 }
-

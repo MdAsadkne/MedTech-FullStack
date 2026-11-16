@@ -6,7 +6,7 @@ A portfolio project built with **React, Vite, Java 17, Spring Boot, Spring Data 
 
 ## Live demo
 
-**[Open the MedTech demo](https://mdasadkne.github.io/MedTech-FullStack/)** â€” GitHub Pages deploys the React app when changes reach `main`. In the hosted demo, edits are stored in your browser. The backend is not hosted by GitHub Pages.
+**[Open the MedTech demo](https://mdasadkne.github.io/MedTech-FullStack/)** — GitHub Pages deploys the React app when changes reach `main`. In the hosted demo, edits are stored in your browser. The backend is not hosted by GitHub Pages.
 
 ## Features
 
@@ -97,5 +97,4 @@ This is an educational catalogue, not a production healthcare system. It has no 
 
 ## License
 
-MIT â€” see [LICENSE](LICENSE).
-
+MIT — see [LICENSE](LICENSE).

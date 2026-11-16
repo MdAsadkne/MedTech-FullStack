@@ -49,4 +49,3 @@ public class Medicine {
     public boolean isPrescriptionRequired() { return prescriptionRequired; }
     public void setPrescriptionRequired(boolean prescriptionRequired) { this.prescriptionRequired = prescriptionRequired; }
 }
-

@@ -32,4 +32,3 @@ public class SampleData {
         return medicine;
     }
 }
-

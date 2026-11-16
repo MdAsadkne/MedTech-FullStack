@@ -59,4 +59,3 @@ public class MedicineController {
         repository.delete(get(id));
     }
 }
-

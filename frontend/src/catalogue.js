@@ -54,4 +54,3 @@ export const catalogue = {
   },
   reset: () => writeDemo(seed),
 };
-
